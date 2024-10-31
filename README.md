@@ -14,12 +14,20 @@
 
 ### How To Use 
 
-* `PYDROID` First You Need To Download <a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'>PYDROID</a> App From Google PlayStore 
+* `PYDROID` First You Need To Download <a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'>**PYDROID**</a> App From Google PlayStore 
 * `PiP INSTALL` Instal Required PiPs `(random,datetime,sys,requests,rich,colorama,string)`
 * `DOWNLOAD` Download Script File ( Followers.py ) from the same repo
-* `OPEN FILE` Opne File in  <a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'>PYDROID</a> app
-* ` RUN SCRIPT ` Now run the script and enter your Instagram ID and get free 1k followers 🔥
+* `OPEN FILE` Opne File in  <a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'>*PYDROID*</a> app
+* ` RUN SCRIPT ` Now run the script and enter your Instagram ID and get **free 1k followers 🔥**
 * `TRY AGAIN ` If you want to get followers again on the same username then you can do it again after 48 hours 
+
+
+## Error Support 
+
+* `TELEGRAM` If you face any error then you can message me on  <a href='t.me/CallAdminsRobot'>**TELEGRAM**</a>
+ * `CHANNEL` Our Telegram <a href='t.me/Outlawbots'>*Channel*</a>
+ * `GROUP` Our Telegram <a href='t.me/OffChats'>*Group*</a>
+* `👨🏻‍💻 Devloper ` <a href='t.me/HATEXFREE'>**TELEGRAM**</a>
 
 **Legal Notice**
 
