@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
-<h1 align="center">INSTAGRAM REPORT BOT</h1>
+<h1 align="center">INSTAGRAM FREE FOLLOWERS TOOL</h1>
 
 
 <p align="center">Get Free Instagram Followers.</p>
@@ -12,14 +12,14 @@
   * Get Instant 1K Followers.
 * Don't Try To DECODE my script.
 
-### Variables
+### How To Use 
 
-* `API_TOKEN` Your bot token from @BotFather
-* `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/Outlawxbot'>@OutlawXbot</a>
-* `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
-* `DATABASE_URL` Your mongo db public url Port `0.0.0.0.0`
-
-
+* `PYDROID` First You Need To Download <a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'>PYDROID</a> App From Google PlayStore 
+* `PiP INSTALL` Instal Required PiPs `(random,datetime,sys,requests,rich,colorama,string)`
+* `DOWNLOAD` Download Script File ( Followers.py ) from the same repo
+* `OPEN FILE` Opne File in  <a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'>PYDROID</a> app
+* ` RUN SCRIPT ` Now run the script and enter your Instagram ID and get free 1k followers 🔥
+* `TRY AGAIN ` If you want to get followers again on the same username then you can do it again after 48 hours 
 
 **Legal Notice**
 
